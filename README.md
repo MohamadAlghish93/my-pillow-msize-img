@@ -1,7 +1,7 @@
 # my-pillow-msize-img
 Code for resize image without losing transparency 
 
-## Prequistes 
+## Prerequisites 
 
 - install `pip install PIL` pillow lib
 - change size and name image inside code
